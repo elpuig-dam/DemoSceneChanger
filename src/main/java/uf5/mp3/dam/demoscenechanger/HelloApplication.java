@@ -20,7 +20,6 @@ public class HelloApplication extends Application {
         stage.setScene(scene);
         Label label = new Label("NEW LABEL");
         bp.getChildren().add(label);
-
         stage.show();
     }
 
